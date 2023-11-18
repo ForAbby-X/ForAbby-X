@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![ForAbby-X's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForAbby-X&theme=darcula&show_icons=true&hide=contribs,prs)
+
+![Piping Server static repo card](doc_assets/piping-server.svg) 
