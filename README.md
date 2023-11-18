@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![ForAbby-X's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForAbby-X&theme=darcula&show_icons=true&hide=contribs,prs&include_all_commits=true&hide_rank=true)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ForAbby\&repo=so_long\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ForAbby-X\&repo=so_long\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
