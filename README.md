@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ForAbby-X's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForAbby-X&theme=darcula&show_icons=true&hide=contribs,prs$include_all_commits=true)
+![ForAbby-X's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForAbby-X&theme=darcula&show_icons=true&hide=contribs,prs&include_all_commits=true)
 
 ![Piping Server static repo card](https://github.com/ForAbby-X/so_long) 
