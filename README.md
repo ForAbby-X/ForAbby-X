@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![ForAbby-X's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForAbby-X&theme=dark&show_icons=true)
+
 <a href="https://github.com/ForAbby-X/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ForAbby-X" />
 </a>
