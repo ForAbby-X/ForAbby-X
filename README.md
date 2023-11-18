@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ForAbby-X\&repo=so_long\&theme=darcula)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ForAbby-X\&repo=cub3D\&theme=darcula)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ForAbby-X\&repo=cube3D\&theme=darcula)
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ForAbby-X\&repo=c-vectorlib\&theme=darcula)
