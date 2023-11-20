@@ -4,8 +4,12 @@
   </a>
 </h1>
 
+<h3 align="center">
+  <a> I am a 42 school student. </a>
+</h3>
+
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/alan-de-freitas-5093a427b/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <a href="https://www.linkedin.com/in/alan-de-freitas-5093a427b/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a>
 </h5>
 
 <h5 align="center">
