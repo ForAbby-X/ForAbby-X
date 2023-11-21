@@ -6,6 +6,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/alan-de-freitas-5093a427b/" title="LinkedIn Profile"><img width="20" src="https://github.com/ForAbby-X/ForAbby-X/assets/79471905/84f3a1ca-257a-4118-b562-1f62933cbc22">LinkedIn</a></code>
+  <code><a href="https://www.codingame.com/profile/7a49f80111091d6bfb378cd970e5bbb11510874/" title="CodinGame Profile"><img width="20" src="https://github.com/ForAbby-X/ForAbby-X/assets/79471905/5fdad352-d412-4d60-b160-e7ed35582d5b">CodinGame</a></code>
 </h5>
 
 <h3 align="center">
