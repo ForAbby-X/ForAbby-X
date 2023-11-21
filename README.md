@@ -16,8 +16,10 @@
 </h3>
 
 <h3 align="center">
-  <img width="400" src="https://github.com/ForAbby-X/cube3D/blob/main/gif/gameplay1.gif">
+  <img width="400" src="https://github.com/ForAbby-X/so_long/blob/main/github_image/gameplay_1.png">
+  <img width="400" src="https://github.com/ForAbby-X/so_long/blob/main/github_image/gameplay_2.png"><br>
   <img width="400" src="https://github.com/ForAbby-X/cube3D/blob/main/gif/gameplay2.gif">
+  <img width="400" src="https://github.com/ForAbby-X/cube3D/blob/main/gif/gameplay1.gif">
 </h3>
 
 <h5 align="center">
