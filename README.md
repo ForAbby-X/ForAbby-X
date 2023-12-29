@@ -11,7 +11,7 @@
 
 <h3 align="center">
   I am a 42 school student that likes C language.<br>
-  I enjoy doing low level graphic projects.<br>
+  I enjoy doing low level graphical projects.<br>
    <br>
   Take a look at some of my work:<br>
 </h3>
