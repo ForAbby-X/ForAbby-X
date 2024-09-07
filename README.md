@@ -5,8 +5,8 @@ About me :
 
 Here's some of my work :
 <h3 align="left">
-  <img width="350" src="https://github.com/ForAbby-X/so_long/blob/main/github_image/gameplay_1.png">
-  <img width="350" src="https://github.com/ForAbby-X/so_long/blob/main/github_image/gameplay_2.png"><br>
-  <img width="350" src="https://github.com/ForAbby-X/cube3D/blob/main/gif/gameplay2.gif">
-  <img width="350" src="https://github.com/ForAbby-X/cube3D/blob/main/gif/gameplay1.gif">
+  <img width=50% src="https://github.com/ForAbby-X/so_long/blob/main/github_image/gameplay_1.png">
+  <img width=50% src="https://github.com/ForAbby-X/so_long/blob/main/github_image/gameplay_2.png"><br>
+  <img width=50% src="https://github.com/ForAbby-X/cube3D/blob/main/gif/gameplay2.gif">
+  <img width=50% src="https://github.com/ForAbby-X/cube3D/blob/main/gif/gameplay1.gif">
 </h3>
