@@ -1,7 +1,7 @@
 About me :
 - 👋 Hi, i'm alan de freitas
 - 👀 I enjoy software architecture, and embedded engineering
-- 📫 Reach me at alan.de-freit@gmail.com
+- 📫 Reach me at alan.defreit@gmail.com
 
 Here's some of my work :
 <h3 align="center">
