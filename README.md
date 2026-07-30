@@ -1,6 +1,6 @@
 About me :
 - 👋 Hi, i'm alan de freitas
-- 👀 I enjoy software architecture, and embedded engineering
+- 👀 I enjoy software development
 - 📫 Reach me at alan.defreit@gmail.com
 
 Here's some of my work :
